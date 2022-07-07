@@ -50,8 +50,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/knights-22.04.2.tar.xz",
-                    "sha256": "971d4f7a24954bbc7a25bda781506383ec3300c668ad1d292f99062b7c6fa774",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/knights-22.04.3.tar.xz",
+                    "sha256": "ccf17d6f63dcea0cd96d5e70ef7454b3a736d1b1dc6d7b7f4c9f13f38f4b21c2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,

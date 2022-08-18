@@ -64,7 +64,7 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/knights-$version.tar.xz"
                     }
-                }
+                },
                 {
                     "type": "file",
                     "url": "https://apps.kde.org/app-icons/org.kde.knights.svg",
